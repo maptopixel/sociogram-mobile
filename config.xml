@@ -17,7 +17,7 @@
         Neehoy Limited
     </author>
         <pre
-    <preference name="phonegap-version" value="2.5.0" />
+    <preference name="phonegap-version" value="2.7.0" />
     <preference name="orientation" value="portrait" />
      <preference name="webviewbounce" value="false" />
     <preference name="prerendered-icon" value="true" />
